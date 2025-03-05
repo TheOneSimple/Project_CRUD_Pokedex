@@ -57,8 +57,7 @@ This file describes the project structure and provides general information.
 ## How to Use
 
 1. Make sure you have Python installed on your machine.
-2. Install the package `pip insatll sqlite`
-3. Navigate to the `src/app/` directory and run the `main.py` file:
-  
+2. Navigate to the `src/app/` directory and run the `main.py` file:
+     
    ```bash
    python main.py
